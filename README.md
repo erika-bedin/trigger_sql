@@ -1,10 +1,12 @@
 # trigger_sql
 
-Instruções do projeto
-Crie um banco de dados, adicione tabelas e determine quais são os atributos de cada uma. Em seguida, 
+#Instruções do projeto
+
+-Crie um banco de dados, adicione tabelas e determine quais são os atributos de cada uma. Em seguida, 
 execute um trigger que se relacione com algum comando, como insert, select, delete ou update.
 
-Resolução:
+#Resolução:
+
 Para criar um banco de dados, adicionar tabelas e determinar os atributos de cada uma, foi necessário 
 utilizar uma linguagem de consulta estruturada (SQL) para interagir com o banco de dados. Criei um
 banco de dados chamado "MeuBancoDeDados", duas tabelas: "Usuarios" e "Pedidos" e seus atributos 
